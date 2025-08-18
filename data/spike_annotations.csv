@@ -1,0 +1,15 @@
+Feature,Start_Codon,End_Codon
+Signal peptide,1,13
+NTD,14,305
+RBD,319,541
+RBM,437,508
+Subdomain 1,542,590
+Subdomain 2,591,641
+S1/S2 cleavage site,681,685
+Fusion peptide,816,835
+Heptad repeat 1 (HR1),912,984
+Central helix,985,1034
+Connector domain,1076,1141
+Heptad repeat 2 (HR2),1163,1213
+Transmembrane domain,1214,1237
+Cytoplasmic tail,1238,1273
